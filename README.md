@@ -2,8 +2,9 @@
 ### di Leon Rosamilia
 
 ## Installazione OS
-Per prima cosa bisogna flashare il sistema operativo su una microSD con ``rpi imager``
-
+Per prima cosa bisogna flashare il sistema operativo su una microSD con ``rpi imager``<br>
+installiamo Raspberry-Pi-OS 64bit stable
+grazie a questo abbiamo un server ssh, sftp e vnc preinstallato e preconfigurato
 
 
 
